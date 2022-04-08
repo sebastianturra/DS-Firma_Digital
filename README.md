@@ -1,5 +1,5 @@
 # Firma_Digital
-Permite crear un foto de la firma del usuario.
+En desarollo. Permite crear un foto de la firma del usuario, la cual es posible subirla al servidor y llamarla cuando es de necesidad.
 
 Topics <br>
 javascript <br>
